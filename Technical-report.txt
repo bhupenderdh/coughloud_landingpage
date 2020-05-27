@@ -1,0 +1,56 @@
+Link to my landing page -
+1. https://dbhupender12.wixsite.com/website
+	This was created using wix
+2. elated-kirch-c3cf99.netlify.app
+	This was created using bootstrap
+
+	*Git repo link is :- https://github.com/bhupenderdh/coughloud_landingpage.git
+
+	*Images and content used in above websites were taken from facebook page of coughloud.
+
+Recipe:-
+
+For first :-
+	>open wix and log in
+	>It will ask for some details regarding the website you want to design
+	>Select teamplate and type of site you want to make.
+	>After selecting a landing page would be created.
+	>Open it with wix editor.
+	>Go to header setting and edit it accordingly by applying  logo, giving contact email, creating a link to survey form etc and select header design.
+	>For asking user to sign up,first create a google form asking for Name and E-mail.
+	>Now create a sign-up button and link it to google form adress.
+	>Going in header setting in wix add social account link like of facebook etc.
+	>Edit the content in the template accordingly with wix editor
+	>Add a page for Concise summary and at last add 'back to top button'
+		*To get source code of site you make first publish it and then copy it's source code
+
+		*I have put the source code of this site in repo too.
+
+For second :-
+	>Download bootsrap files.
+	>Create a index.html file and style.css file.
+	>In the index file html code link it to main.css from bootstrap files downloaded
+	>Now open bootstrap tutorial.
+	>In bootstrap tutorial you will get code for almost everything like Nav bar, Slider etc.
+	>Copy code of Nav bar and paste it in your index file section. 
+	>Do required changes to nav bar according to your need.
+	>Next copy slider code from bootsrap tutorial and copy it to your index file section and add required images accordingly.
+	>Make sure that size of images is same.
+	>Using Style.css make a class that fit the image to your pc screen.
+	>Now make another section for concise summary and select the template for this section from bootstrap tutorial and make required changes like changing image and font style.
+	>Make last section for contact info.
+	>I have created here three buttons :-
+		1. Join us - Using 'href' link it to your google form adress.
+		2. Click here - It is linked to survey form of coughloud
+		3. Contact now - Using 'mailto' it is linked to info@healthwin.in
+
+		*'ytb4' folder in above repo contains code for this landing page
+		* Reference - https://www.youtube.com/watch?v=yZnNnvXO8HI 
+
+Difficulties :-
+	>In Wix editor I was not able to upload media from my media
+	>It works very slow
+	>Once you come to Wix editor leaving Wix ADI you can't go back to Wix ADI.
+	>For landing page created with bootstrap I didn't have much time as I have to finish It before 5 pm and I started at 1 pm and also have to learn bootstrap in the mean time.
+	
+
